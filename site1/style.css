@@ -1,0 +1,45 @@
+.navbar-nav .nav-link{
+
+  font-size: 15px;
+  
+  color: rgb(103, 103, 103);
+  
+
+}
+.navbar-nav{
+ margin-right: 20px;
+
+
+
+}
+
+
+.navbar-nav .btn
+{
+    font-size: 15px;
+}
+
+.text-capti
+{
+color: white;
+
+}
+
+
+.fa-whatsapp
+{
+    color:white ;
+    background-color: #25D366;
+    border-radius: 2px;
+}
+.fa-instagram
+{
+ color: white;
+ background-color: #F56040;
+
+}
+.fa-facebook
+{
+    color: white;
+    background-color: #4267B2;
+}
